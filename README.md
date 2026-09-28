@@ -1,5 +1,5 @@
 # Hello! I'm Stefanie. 👋
-I'm a junior studying Computer Science and Operations Research and Information Engineering (ORIE) at Cornell University. I'm passionate about product engineering, AI/ML, backend development, product design, and cloud computing. ***Essentially, I'm passionate about creating delightful experiences for users.***
+I'm a senior studying Computer Science at Cornell University. I'm passionate about product engineering, AI/ML, backend development, product design, and cloud computing. ***Essentially, I'm passionate about creating delightful experiences for users.***
 
 Previously, I've interned at Amazon Web Services as an SDE Intern in Summer 2024 and Summer 2025, along with Datadog in Summer 2026. Interning at an AI Health Tech startup is next in the cards for me.
 
